@@ -1,0 +1,8 @@
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\bin\Debug\SportManagment.exe.config
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\bin\Debug\SportManagment.exe
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\bin\Debug\SportManagment.pdb
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\obj\Debug\SportManagment.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\obj\Debug\SportManagment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\obj\Debug\SportManagment.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\obj\Debug\SportManagment.exe
+C:\Users\Amir\Desktop\C#\SportManagment\SportManagment\obj\Debug\SportManagment.pdb
